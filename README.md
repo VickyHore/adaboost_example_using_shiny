@@ -4,3 +4,4 @@
 
 #### Running the code
 * Download the repo and run the run_app.R file. 
+* Or view the application here https://vickyhore.shinyapps.io/adaboost_example/
